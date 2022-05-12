@@ -11,3 +11,4 @@ A01252135
 ## Listado de Ejercicios
 * El programa prueba.c es un ejemplo para compilacion con el lenguaje c
 * El programa prueba.py es un ejemplo para compilacion con el lenguaje python
+* El programa paint.py es un ejemplo del paint de microsoft pero realizado con el lenguaje python
