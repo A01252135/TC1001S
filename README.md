@@ -17,3 +17,6 @@ A01252135
 * El programa parabola.py es un juego de parabola hecho en python
 * El programa snake.py es un juego de la serpiente hecho en python
 * El proyecto llamado maze.py es un juego de laberinto en el cual el jugador tiene que recoger 3 llaves para poder salir, de no juntar las 3 llaves el jugador se vera atrapado dentro del laberino hasta que cumpla el objetivo.
+
+Video Explicando el Proyecto:
+https://youtu.be/10qkAahTbsA
